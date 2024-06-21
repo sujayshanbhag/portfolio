@@ -258,7 +258,7 @@ export const projects = [
     date: "Jan 2024 - Dec 2023",
     description:
       "A social media application that lets users can follow others, post tweets, images, comments, likes and get user recommendations.",
-    image: "https://private-user-images.githubusercontent.com/127194126/341388282-9f3c3e9b-a204-41ad-927d-c678bc1793f1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4ODQ1MTIsIm5iZiI6MTcxODg4NDIxMiwicGF0aCI6Ii8xMjcxOTQxMjYvMzQxMzg4MjgyLTlmM2MzZTliLWEyMDQtNDFhZC05MjdkLWM2NzhiYzE3OTNmMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyMFQxMTUwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMWFiZGIxNjZhNTE4MzdmY2Y5OTcyMzA1NjVlYjc1ZTJlOTAyOGNjMjllMWNmNWQ0Mzk1ODUzMmQ4NmUzZGU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ACyIdeh3C2vB77Ybkc9XibJUNjLIedCSH-p4Cz_Z7oQ",
+    image: "https://github.com/SujayShanbhag/twitter-clone/assets/127194126/9f3c3e9b-a204-41ad-927d-c678bc1793f1",
     tags: [
       "React Js",
       "PostgressSQL",
@@ -278,8 +278,7 @@ export const projects = [
     date: "Dec 2021 - Apr 2022",
     description:
       "An “Expense Tracking App”. Keep track of your monthly expenses and compare them to your monthly income with the budget planner.",
-    image:
-      "https://private-user-images.githubusercontent.com/127194126/341386528-3c912f56-9aec-4e72-81a4-e6c37ac9c765.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4ODE5NjMsIm5iZiI6MTcxODg4MTY2MywicGF0aCI6Ii8xMjcxOTQxMjYvMzQxMzg2NTI4LTNjOTEyZjU2LTlhZWMtNGU3Mi04MWE0LWU2YzM3YWM5Yzc2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyMFQxMTA3NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mYTFiZmVhNTQxODliMDM1NGM2ZTBiZTc5ODM0N2VmN2JjMjM0Y2IyN2M5ZDRkZjUwOTE2MGY5YTczYjk2N2VjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jUdyCn6bXiuQmIwia7fLPHflKF1LEbiaTaMnbilmfXc",
+    image: "https://github.com/SujayShanbhag/Coin-Charm/assets/127194126/3c912f56-9aec-4e72-81a4-e6c37ac9c765",
     tags: ["Kotlin", "MVVM", "Firestore Database", "Firebase Auth API"],
     category: "android app",
     github: "https://github.com/SujayShanbhag/Coin-Charm",
