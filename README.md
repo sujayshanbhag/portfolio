@@ -10,7 +10,7 @@ It has been changed into a simple redirect website so that visitors using the ol
 
 This repository is kept live to support the old portfolio URL and redirect traffic to the new site.
 
-## Current website
+## Current website 
 
 The active portfolio is now available at:
 
